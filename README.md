@@ -1,8 +1,32 @@
-# React + Vite
+# React Vite Project with Storybook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This guide provides instructions for setting up and running a React project with Vite and integrating Storybook for component development and documentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation and Running Guide
+
+### 1. Install Dependencies
+
+First, ensure you have Node.js and npm installed. Then, navigate to your project directory and install all necessary dependencies:
+
+```bash
+npm install
+```
+
+
+Run the project:
+```bash
+npm run dev
+```
+
+Run Storybook:
+```bash
+npm run storybook
+```
+
+GitHub URL - [https://github.com/abdillah98/makyo-frontend-test](https://github.com/abdillah98/makyo-frontend-test)
+Deployment URL - [https://makyo-frontend-test.vercel.app/](https://makyo-frontend-test.vercel.app/)
+Storybook URL - [https://makyo-abdillah-storybook.netlify.app/](https://makyo-abdillah-storybook.netlify.app/) 
+
+
