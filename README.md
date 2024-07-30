@@ -25,8 +25,8 @@ Run Storybook:
 npm run storybook
 ```
 
-GitHub URL - [https://github.com/abdillah98/makyo-frontend-test](https://github.com/abdillah98/makyo-frontend-test)
-Deployment URL - [https://makyo-frontend-test.vercel.app/](https://makyo-frontend-test.vercel.app/)
-Storybook URL - [https://makyo-abdillah-storybook.netlify.app/](https://makyo-abdillah-storybook.netlify.app/) 
+- GitHub URL - [https://github.com/abdillah98/makyo-frontend-test](https://github.com/abdillah98/makyo-frontend-test)
+- Deployment URL - [https://makyo-frontend-test.vercel.app/](https://makyo-frontend-test.vercel.app/)
+- Storybook URL - [https://makyo-abdillah-storybook.netlify.app/](https://makyo-abdillah-storybook.netlify.app/) 
 
 
